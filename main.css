@@ -1,0 +1,9 @@
+img {
+  height: 175px !important;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: #0d6efd;
+  color: #ffffff;
+}
